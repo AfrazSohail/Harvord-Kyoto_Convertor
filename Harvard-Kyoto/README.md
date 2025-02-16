@@ -1,0 +1,1 @@
+Converts Harvord-Kyoto Transliteration to Devanagiri Script. After you hit the convert button, the Devanagiri Text is Automotically Copied to your Clipboard.
